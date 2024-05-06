@@ -1,2 +1,2 @@
-3000 tl speedrun.
-3 hour 2 minutes speedrun
+ilk once veritabanini ayarla.
+sonra ne yapiyosan yap
