@@ -10,4 +10,4 @@ Bu repo , basit bir json - pdf dönüştürücüsüdür. sunucuya kayıt olursun
 ### emirhan karakoç, 2024 mayıs, denizli. 3 saat 2 dakikada bu proje oluşturulmuştur.
 
 # slayt sunumu için url:
-[https://docs.google.com/presentation/d/1X6KVhyQavwjj1pMECGs9uaiEyydswVQ-BL5ssqgwyjc/edit?usp=sharing](click)
+[https://docs.google.com/presentation/d/1X6KVhyQavwjj1pMECGs9uaiEyydswVQ-BL5ssqgwyjc/edit?usp=sharing](https://docs.google.com/presentation/d/1X6KVhyQavwjj1pMECGs9uaiEyydswVQ-BL5ssqgwyjc/edit?usp=sharing)
