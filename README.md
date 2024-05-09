@@ -7,7 +7,10 @@ Jobseeker , online bir şekilde şablonlar vasıtası ile cv , önyazı hazırla
 Bu repo , basit bir json - pdf dönüştürücüsüdür. sunucuya kayıt olursunuz ve kendi datalarınızı girersiniz.<br/> Eğitimleriniz , belgeleriniz , iş tecrübeleriniz , bildiğiniz diller & hobileri girebilirsiniz. Bu verileriniz otomatik olarak cvye dönüştürülecektir.
 <br/>Normalde jobseekerde 12 tane tema var. Ben bu projeyi nasıl oluyor diye yapmak için yaptım. cv template'i çok basit, hatta beğenmeyeceğiniz birşey :))
 
-### emirhan karakoç, 2024 mayıs, denizli. 3 saat 2 dakikada bu proje oluşturulmuştur.
 
 # slayt sunumu için url:
 [https://docs.google.com/presentation/d/1X6KVhyQavwjj1pMECGs9uaiEyydswVQ-BL5ssqgwyjc/edit?usp=sharing](https://docs.google.com/presentation/d/1X6KVhyQavwjj1pMECGs9uaiEyydswVQ-BL5ssqgwyjc/edit?usp=sharing)
+
+
+
+<br/>emirhan karakoç, 2024 mayıs, denizli. 3 saat 2 dakikada, bir gece vakti oluşturulmuştur.
