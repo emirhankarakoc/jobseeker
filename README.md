@@ -11,10 +11,11 @@ This repo is a simple JSON-to-PDF converter. You register on the server and inpu
 ## Slide Presentation URL:
 ### English
 Auto translated with google translate from turkish to english.
-[jobseeker sunumu (1).pdf](https://github.com/user-attachments/files/16418069/jobseeker.sunumu.1.pdf)
+[jobseeker slide (en).pdf](https://github.com/user-attachments/files/16418069/jobseeker.sunumu.1.pdf)
 
 
-### Turkish [jobseeker sunumu.pdf](https://github.com/user-attachments/files/16418072/jobseeker.sunumu.pdf)
+### Turkish
+[jobseeker sunumu (tr).pdf](https://github.com/user-attachments/files/16418072/jobseeker.sunumu.pdf)
 
 
 <br/> Created by Emirhan Karakoç, May 2024, Denizli. Made in 3 hours and 2 minutes, late at night.
